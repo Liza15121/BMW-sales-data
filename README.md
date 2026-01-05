@@ -60,7 +60,7 @@
 
 # **Installations**
 # Clone the repository
-git clone https://github.com/<your-username>/sales-conversion-prediction.git
+(https://github.com/Liza15121/BMW-sales-data)
 cd sales-conversion-prediction
 
 # Create and activate virtual environment (optional but recommended)
